@@ -6,7 +6,7 @@
         </div>
         <!-- แถบส่วนหัวที่มีเงา -->
         <div class="w-full shadow-md h-20 flex items-center justify-between px-4 lg:px-32 fixed top-10 left-0 right-0 z-50 bg-white">
-            <img src="https://www.aru.ac.th/asi/images/logo_asi3.png" alt="Logo" class="h-16 mr-2">
+            <img src="https://nk.mcu.ac.th/wp-content/compressx-nextgen/uploads/2023/09/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%B1%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%88%E0%B8%B8%E0%B8%AC%E0%B8%B2%E0%B8%A5%E0%B8%87%E0%B8%81%E0%B8%A3%E0%B8%93%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%B1%E0%B8%A2-%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B9%80%E0%B8%82%E0%B8%95%E0%B8%AB%E0%B8%99%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%B2%E0%B8%A2-3.png.webp" alt="Logo" class="h-16 mr-2">
             <!-- <Link class="flex items-center" :href="route('index')">
                 <h1 class="text-4xl font-bold uppercase">ARU</h1>
                 <h1 class="text-4xl font-bold text-blue-600">Teaching Materials</h1>
